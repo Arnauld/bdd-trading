@@ -1,0 +1,18 @@
+*.class
+
+etc/config/dev.properties
+
+my-doc/
+
+*.pdf
+*.iml
+
+# Package Files #
+*.jar
+*.war
+*.ear
+target/
+.classpath
+.project
+.settings/
+.idea/
